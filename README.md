@@ -1,6 +1,8 @@
-<code>💡 [Skills](SKILLS.md)</code>
-<code>💬 [Telegram](https://t.me/imtwod)</code>
-<code>📫 [Email](mailto:al.chumakov96@gmail.com)</code>
+<code>👷 Speciality: Software engineer / Backend</code><br>
+<code>💡 [Skills](https://github.com/imtwod/backend-knowledge-base/blob/main/SKILLS.md)</code><br>
+<code>💬 [Telegram](https://t.me/imtwod)</code><br>
+<code>📫 [Email](mailto:al.chumakov96@gmail.com)</code><br>
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
